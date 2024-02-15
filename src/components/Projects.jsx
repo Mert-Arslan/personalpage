@@ -11,7 +11,7 @@ function Projects() {
         <div className="flex items-center">
           <img
             className="w-1/4 max-h-48"
-            src="./src/assets/workintech.png"
+            src="./assets/workintech.png"
             alt="Workintech"
           />
           <div className="justify-center ml-5 dark:text-white">
@@ -24,7 +24,7 @@ function Projects() {
         <div className="flex items-center my-10">
           <img
             className="w-1/4 max-h-48"
-            src="./src/assets/workintech.png"
+            src="./assets/workintech.png"
             alt="Workintech"
           />
           <div className="justify-center ml-5 dark:text-white">

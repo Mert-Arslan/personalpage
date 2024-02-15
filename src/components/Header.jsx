@@ -49,15 +49,15 @@ function Header() {
                 {headerConter?.data4}
               </p>
               <div className="mt-4 flex  justify-start w-full mb-10 gap-1">
-                <img className="flex" src="./src/assets/GithubButton.png" />
-                <img className="flex" src="./src/assets/LinkedinButton.png" />
+                <img className="flex" src="./assets/GithubButton.png" />
+                <img className="flex" src="./assets/LinkedinButton.png" />
               </div>
             </div>
 
             <div className="flex w-full justify-end">
               <img
                 className="object-fit w-auto rounded-md h-36 mb-10 mt-5"
-                src="./src/assets/hero.png"
+                src="./assets/hero.png"
               />
             </div>
           </div>

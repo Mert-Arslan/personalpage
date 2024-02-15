@@ -32,11 +32,7 @@ function Profile() {
             </div>
           </div>
           <div className="flex-auto justify-center items-center mt-4 ">
-            <img
-              className="object-contain"
-              src="./src/assets/profile.png"
-              alt=""
-            />
+            <img className="object-contain" src="./assets/profile.png" alt="" />
           </div>
           <div className="flex-auto justify-center items-center text-white text-xl mt-14">
             About me

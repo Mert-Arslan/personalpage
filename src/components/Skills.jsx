@@ -12,29 +12,29 @@ function Skills() {
         </div>
         <div className="flex-auto p-1">
           <div className="flex items-center space-x-2 mb-3 dark: text-white">
-            <img className="w-20 h-20" src="./src/assets/javasc.png" alt="" />
+            <img className="w-20 h-20" src="./assets/javasc.png" alt="" />
             <p>JAVASCRİPT</p>
           </div>
           <div className="flex items-center space-x-2 mb-3 dark: text-white">
-            <img className="w-20 h-20" src="./src/assets/react.png" alt="" />
+            <img className="w-20 h-20" src="./assets/react.png" alt="" />
             <p>REACT</p>
           </div>
           <div className="flex items-center space-x-2 mb-3 dark: text-white">
-            <img className="w-20 h-20" src="./src/assets/redux.png" alt="" />
+            <img className="w-20 h-20" src="./assets/redux.png" alt="" />
             <p>REDUX</p>
           </div>
         </div>
         <div className="flex-auto p-1">
           <div className="flex items-center space-x-2 mb-3 dark: text-white">
-            <img className="w-20 h-20" src="./src/assets/nodejs1.png" alt="" />
+            <img className="w-20 h-20" src="./assets/nodejs1.png" alt="" />
             <p>NODE</p>
           </div>
           <div className="flex items-center space-x-2 mb-3 dark: text-white">
-            <img className="w-20 h-20" src="./src/assets/vs.png" alt="" />
+            <img className="w-20 h-20" src="./assets/vs.png" alt="" />
             <p>VS CODE</p>
           </div>
           <div className="flex items-center space-x-2 mb-3 dark: text-white">
-            <img className="w-20 h-20" src="./src/assets/figma.png" alt="" />
+            <img className="w-20 h-20" src="./assets/figma.png" alt="" />
             <p>FİGMA</p>
           </div>
         </div>
